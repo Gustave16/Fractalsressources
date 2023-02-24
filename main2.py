@@ -1,3 +1,4 @@
+#use this file with the "constants one to make it work" 
 import pygame
 import math
 import os
