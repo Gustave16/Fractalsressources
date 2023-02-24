@@ -1,3 +1,5 @@
+#use this file combine with the "main2" to generate fractals
+
 Width = 1920
 Height = 1080
 
